@@ -1,1 +1,6 @@
 exemplo de ficheiro de texto file3
+
+
+
+
+Adicionei esta linha nova
